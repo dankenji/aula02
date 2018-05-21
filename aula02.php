@@ -1,5 +1,1 @@
-nosso primeiro
-
-arquivo
-
-novo
+ORIGINAL
